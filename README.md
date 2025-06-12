@@ -23,6 +23,7 @@ This server acts as a proxy to forward requests to a specified Large Language Mo
 
    - Start the server using Node.js:
      ```bash
+     source .env
      node server.js
      ```
 
