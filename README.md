@@ -24,7 +24,7 @@ This server acts as a proxy to forward requests to a specified Large Language Mo
    - Start the server using Node.js:
      ```bash
      source .env
-     npm install express http-proxy-middleware --save
+     npm install express http-proxy-middleware winston morgan --save
      node server.js
      ```
 

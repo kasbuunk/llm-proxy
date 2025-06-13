@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "^5.1.0",
-    "http-proxy-middleware": "^3.0.5"
+    "http-proxy-middleware": "^3.0.5",
+    "morgan": "^1.10.0",
+    "winston": "^3.17.0"
   },
   "name": "llm-proxy",
   "version": "1.0.0",
